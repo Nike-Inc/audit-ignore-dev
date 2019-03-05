@@ -1,0 +1,36 @@
+{
+  "name": "@nike/audit-ignore-dev",
+  "version": "1.0.11",
+  "description": "Ignore devDependencies while running `npm audit`",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "audit-ignore-dev": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.nike.com/users/nmyers/repos/audit-ignore-dev/browse"
+  },
+  "publishConfig": {
+    "registry": "https://artifactory.nike.com/artifactory/api/npm/npm-local/"
+  },
+  "keywords": [
+    "npm",
+    "audit",
+    "ignore",
+    "devDependencies"
+  ],
+  "author": "Nathanial Myers <nmyers322@gmail.com>",
+  "homepage": "https://nate.technology",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "clean-css": "^3.4.28",
+    "jest": "^24.1.0"
+  }
+}
