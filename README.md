@@ -47,6 +47,5 @@ Optionally, you can provide arguments for the acceptable amount of vulnerabiliti
 ## Author
 Nathanial Myers
 
-nathanial.myers@nike.com | nmyers322@gmail.com
+nathanial.myers@nike.com
 
-[https://nate.technology](https://nate.technology)

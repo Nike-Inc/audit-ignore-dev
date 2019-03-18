@@ -1,6 +1,6 @@
 {
   "name": "@nike/audit-ignore-dev",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Ignore devDependencies while running `npm audit`",
   "main": "index.js",
   "scripts": {
