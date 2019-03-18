@@ -1,6 +1,6 @@
 {
   "name": "@nike/audit-ignore-dev",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Ignore devDependencies while running `npm audit`",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,7 @@
     "ignore",
     "devDependencies"
   ],
-  "author": "Nathanial Myers <nmyers322@gmail.com>",
-  "homepage": "https://nate.technology",
+  "author": "Nathanial Myers <nathanial.myers@nike.com>",
   "license": "ISC",
   "dependencies": {
     "minimist": "^1.2.0"
